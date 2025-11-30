@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Java (já tinha)
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
